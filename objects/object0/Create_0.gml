@@ -4,7 +4,7 @@ x = room_width / 2;
 y = 100;
 
 Color = 0;
-
+rain = 0;
 //rain_cold_down
-rain_colddown = room_speed / 4;
+rain_colddown = room_speed / 5;
 alarm[0] = rain_colddown; 
