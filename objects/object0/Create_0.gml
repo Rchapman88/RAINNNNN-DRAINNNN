@@ -8,3 +8,7 @@ rain = 0;
 //rain_cold_down
 rain_colddown = room_speed / 5;
 alarm[0] = rain_colddown; 
+
+can_use = true;
+cooldown = room_speed * 5;
+alarm[1] = cooldown;

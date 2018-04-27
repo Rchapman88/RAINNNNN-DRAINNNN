@@ -8,5 +8,6 @@ if(cangrow == true){
 	if (counter == 0){
 		sprite_index = sprite13;
 		cangrow = false;
+		ded = true;
 	}
 }
