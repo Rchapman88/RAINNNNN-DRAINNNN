@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "375d2b89-07ea-43cd-b2e3-2d5038c4782c",
+            "Value": {
+                "id": "bcccec1b-513b-4b44-85d1-b6f4a0b9fb8e",
+                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "3ab58eaf-7405-4aaa-ae21-895c48e1d814",
             "Value": {
                 "id": "3b3f9445-1b23-4725-8bdd-6ccf9972f09e",
@@ -298,7 +306,7 @@
             "Key": "a72a4889-380f-478b-b631-2b9556f70804",
             "Value": {
                 "id": "06639197-a0dc-41fb-919c-31139cfe7347",
-                "resourcePath": "objects\\object11\\object11.yy",
+                "resourcePath": "objects\\Roomchanger1\\Roomchanger1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -316,6 +324,14 @@
                 "id": "d8d6601b-100d-4a6e-8095-25ae54957192",
                 "resourcePath": "scripts\\script0\\script0.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "f789571f-200d-40de-b940-cd1551e268ec",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
             }
         },
         {
@@ -447,6 +463,14 @@
             }
         },
         {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "34689b91-b4c6-4af6-bffb-92df1751031f",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        },
+        {
             "Key": "f92ef1f3-3bd1-4341-8558-e58301135212",
             "Value": {
                 "id": "fdde7206-ceb4-4dce-b193-81e5fb87f395",
@@ -460,6 +484,14 @@
                 "id": "443aa23b-ca92-46d5-9440-9d6f3c01e2c5",
                 "resourcePath": "views\\fcc70b2f-9545-4fe5-a8b8-88a1a0b46e12.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fef59b9e-3923-49cb-a8bf-b0923edf5c47",
+            "Value": {
+                "id": "5bd11921-e23d-4204-adc8-ff3083d25245",
+                "resourcePath": "objects\\Roomchanger2\\Roomchanger2.yy",
+                "resourceType": "GMObject"
             }
         }
     ],

@@ -2,7 +2,7 @@
     "id": "a72a4889-380f-478b-b631-2b9556f70804",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object11",
+    "name": "Roomchanger1",
     "eventList": [
         {
             "id": "5c46d98c-cdaf-42a0-be32-3e3df9c475a7",
@@ -22,6 +22,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "a72a4889-380f-478b-b631-2b9556f70804"
+        },
+        {
+            "id": "9c671070-b993-456e-a54c-4fa893f44fe5",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
             "m_owner": "a72a4889-380f-478b-b631-2b9556f70804"
         }
     ],
