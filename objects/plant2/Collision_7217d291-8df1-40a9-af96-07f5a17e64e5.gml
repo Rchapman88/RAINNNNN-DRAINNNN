@@ -7,5 +7,5 @@ if (cangrow = false){
 	cangrow = true;
 	image_xscale = 1;
 	image_yscale = 1;
-	counter = 5;
+	counter = 10;
 }

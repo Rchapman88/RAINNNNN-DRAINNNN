@@ -3,3 +3,4 @@
 counter = 5;
 cangrow = true;
 ded = false;
+onfire = false;

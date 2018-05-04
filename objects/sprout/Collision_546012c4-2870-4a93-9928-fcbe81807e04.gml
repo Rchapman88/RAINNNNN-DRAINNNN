@@ -11,3 +11,6 @@ if(cangrow == true){
 		cangrow = false;
 	}
 }
+if(onfire == true){
+	onfire = false;
+}
