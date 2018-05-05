@@ -1,3 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-rain --;
+speed += 1.2;
