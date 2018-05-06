@@ -2,7 +2,7 @@
 // You can write your code in this editor
 y = 100
 //speed
-if(speed > 0 || speed < 0)	speed -= speed/13;
+if(speed > 0 || speed < 0)	speed -= speed/12;
 if(speed > 15) speed = 10;
 if(speed < -15) speed = -10;
 //rain

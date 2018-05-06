@@ -113,6 +113,56 @@
             "enumb": 39,
             "eventtype": 5,
             "m_owner": "4ce304fe-325f-4027-966b-5432faf1f086"
+        },
+        {
+            "id": "4a71695e-56ee-40d5-adc5-2cec9cd5807c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 32,
+            "eventtype": 5,
+            "m_owner": "4ce304fe-325f-4027-966b-5432faf1f086"
+        },
+        {
+            "id": "e7d19c28-0efe-4eb3-9d9c-cf77970faf40",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 38,
+            "eventtype": 9,
+            "m_owner": "4ce304fe-325f-4027-966b-5432faf1f086"
+        },
+        {
+            "id": "4d9580d6-ec98-4991-b430-6b0061721dcb",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 40,
+            "eventtype": 9,
+            "m_owner": "4ce304fe-325f-4027-966b-5432faf1f086"
+        },
+        {
+            "id": "61eec83e-5a33-421f-9e55-6fdc6db80a4b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 16,
+            "eventtype": 9,
+            "m_owner": "4ce304fe-325f-4027-966b-5432faf1f086"
+        },
+        {
+            "id": "2905a85b-3e93-46fc-883c-b43d6e5587b1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "fef59b9e-3923-49cb-a8bf-b0923edf5c47",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "4ce304fe-325f-4027-966b-5432faf1f086"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

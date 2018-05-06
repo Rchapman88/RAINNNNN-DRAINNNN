@@ -11,7 +11,4 @@ if alarm[0] <= 0 {
 		instance_create_layer(x,y,"Instances",greenrain);	
 	}
 	alarm[0] = rain_colddown;
-  }
-
-
-
+}
