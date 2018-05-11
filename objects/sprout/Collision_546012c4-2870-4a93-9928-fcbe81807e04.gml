@@ -7,7 +7,7 @@ if(cangrow == true){
 	image_yscale+= .2;
 
 	if (counter == 10){
-		sprite_index = corn;
+		sprite_index = corn_sprite;
 		cangrow = false;
 	}
 }

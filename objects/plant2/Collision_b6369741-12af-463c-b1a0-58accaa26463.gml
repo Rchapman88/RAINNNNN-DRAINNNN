@@ -6,7 +6,7 @@ if(cangrow == true){
 	image_yscale+= .1;
 
 	if (counter == 5){
-		sprite_index = sprite19;
+		sprite_index = redPlant_sprite;
 		
 		grown = true;
 	}

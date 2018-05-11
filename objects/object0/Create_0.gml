@@ -9,6 +9,7 @@ rain = 0;
 rain_colddown = room_speed / 5;
 alarm[0] = rain_colddown; 
 
+//Lightning Cool Down
 can_use = true;
-cooldown = room_speed * 5;
+cooldown = room_speed * 10;
 alarm[1] = cooldown;

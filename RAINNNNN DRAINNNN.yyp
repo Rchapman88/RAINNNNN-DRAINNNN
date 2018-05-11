@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "10cb5286-adeb-4b2a-b758-8ea439578c3d",
+            "Value": {
+                "id": "89591d3d-dc7e-42eb-99ac-4b2e066a02e1",
+                "resourcePath": "sprites\\FarmerJohn\\FarmerJohn.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1630e191-141c-4a0b-a667-699c5ca66dc5",
             "Value": {
                 "id": "7de30f82-8d09-4147-a1de-f88a2f20ff19",
@@ -183,10 +191,26 @@
             }
         },
         {
+            "Key": "540c03e6-1d21-44a0-8442-00cef234aa56",
+            "Value": {
+                "id": "61322f4b-25dd-4579-af13-044937dbc86d",
+                "resourcePath": "objects\\DeadPlant\\DeadPlant.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "591388fb-7365-4e54-b920-9d2b5f2f631e",
+            "Value": {
+                "id": "ab016e12-e08d-4121-899f-3365ec0629f4",
+                "resourcePath": "objects\\DefaultPoolPeople\\DefaultPoolPeople.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5cdefe68-7a6f-4bf9-853e-45a17929c347",
             "Value": {
                 "id": "fcddc942-e2f1-49c6-a325-ae94c73b317c",
-                "resourcePath": "objects\\object8\\object8.yy",
+                "resourcePath": "objects\\CornPlant\\CornPlant.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -231,6 +255,14 @@
             }
         },
         {
+            "Key": "6da0f598-aca4-47dc-b30b-499ae02d365b",
+            "Value": {
+                "id": "4474fd7d-278c-41b8-97e4-6e825db4115c",
+                "resourcePath": "objects\\Dirt\\Dirt.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "77f5e8a5-e2f9-4a08-8805-ba93b5592c4c",
             "Value": {
                 "id": "27614208-6435-4606-8c33-9dd917494dbe",
@@ -271,10 +303,26 @@
             }
         },
         {
+            "Key": "7d566ae5-ecda-4c20-a132-c6b26e3658de",
+            "Value": {
+                "id": "df4c4f37-bd8d-4b0a-a46b-92cf260e1a57",
+                "resourcePath": "sprites\\TheBluePeople\\TheBluePeople.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7d71d68c-75ae-44a1-ae6b-c709efd55b88",
             "Value": {
                 "id": "aedc1cb7-5e57-4c2c-a8f5-3a0779d22fa4",
                 "resourcePath": "sprites\\Boom_sprite\\Boom_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7eaa51e9-2e14-4184-a175-fef8083e1ac4",
+            "Value": {
+                "id": "470f455b-676e-4675-bacf-784c74775d99",
+                "resourcePath": "sprites\\FarmerJohnHome\\FarmerJohnHome.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -307,6 +355,14 @@
             "Value": {
                 "id": "13d681b4-e1a9-4610-93fc-e01a9e188c6f",
                 "resourcePath": "sprites\\redPlant_sprite\\redPlant_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8d8792cd-b24e-45fd-85c2-0ee47e4e33ff",
+            "Value": {
+                "id": "8269be25-1b7a-4f28-b639-fc98f8caf32e",
+                "resourcePath": "sprites\\TheDirt\\TheDirt.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -423,6 +479,14 @@
             }
         },
         {
+            "Key": "b2bf18f0-ff94-494d-9cf9-cda85ddb030a",
+            "Value": {
+                "id": "5465efec-5519-4aa7-824c-d022958b92f8",
+                "resourcePath": "objects\\RedPoolPeople\\RedPoolPeople.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b451299f-26af-407f-8b31-7ac8d02b3dcd",
             "Value": {
                 "id": "be872465-612c-4a9d-89f7-e9dd20496cb4",
@@ -471,6 +535,14 @@
             }
         },
         {
+            "Key": "c4cf13d5-f70d-47ae-a585-c398d6d1de1a",
+            "Value": {
+                "id": "dbf310a3-369b-4ce0-8acd-b5d1021d9ea8",
+                "resourcePath": "objects\\TheFarmer\\TheFarmer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "12fdb6cf-04fc-4a1a-a2c8-593e8c82baaf",
@@ -484,6 +556,14 @@
                 "id": "0950a50d-f1e9-420e-ba01-5b4daece996a",
                 "resourcePath": "rooms\\room1\\room1.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "d935bd57-72f8-43a9-af57-7a3f4df7e8c9",
+            "Value": {
+                "id": "05faaa35-126c-4780-9c72-a340204dd4bd",
+                "resourcePath": "sprites\\TheDefaultPeople\\TheDefaultPeople.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -551,6 +631,14 @@
             }
         },
         {
+            "Key": "ee539eb8-12b2-4849-af83-b8d89a2b0999",
+            "Value": {
+                "id": "ab73cd58-1f1f-46dc-b003-0467a679d2a4",
+                "resourcePath": "sprites\\TheRedPeople\\TheRedPeople.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "34689b91-b4c6-4af6-bffb-92df1751031f",
@@ -564,6 +652,14 @@
                 "id": "fdde7206-ceb4-4dce-b193-81e5fb87f395",
                 "resourcePath": "views\\f92ef1f3-3bd1-4341-8558-e58301135212.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fa479921-c403-4c64-a8e7-0a6b71743419",
+            "Value": {
+                "id": "9eb9e0de-2be9-4fae-af85-230141292da0",
+                "resourcePath": "objects\\BluePeoplePoolParty\\BluePeoplePoolParty.yy",
+                "resourceType": "GMObject"
             }
         },
         {

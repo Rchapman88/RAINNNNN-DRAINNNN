@@ -2,7 +2,7 @@
 // You can write your code in this editor
 if(onfire = false){
 
-	sprite_index = sprite13;
+	sprite_index = burned_sprite;
 	image_xscale = 1;
 	image_yscale = 1;
 	

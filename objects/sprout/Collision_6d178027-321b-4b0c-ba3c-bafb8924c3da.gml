@@ -6,7 +6,7 @@ if(cangrow == true){
 	image_yscale-= .1;
 
 	if (counter == 0){
-		sprite_index = sprite13;
+		sprite_index = burned_sprite;
 		cangrow = false;
 		ded = true;
 	}

@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 if (cangrow = false && onfire == false){
-	sprite_index = sprite6;
+	sprite_index = sprout_sprite;
 	ded = false;
 	cangrow = true;
 	onfire = false;
