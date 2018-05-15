@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "32e328dd-9f7c-49e0-8ab4-2545442cffaa",
+            "Value": {
+                "id": "115e2be6-419d-4955-9752-f5270aafce21",
+                "resourcePath": "sprites\\sprite34\\sprite34.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "34f772ed-1563-4633-9edd-712b77748b60",
             "Value": {
                 "id": "e6f533d7-e4b1-473a-bd2d-9cf5e2d11e1c",
@@ -535,6 +543,14 @@
             }
         },
         {
+            "Key": "c2061fc3-ca79-423c-b02c-1e3e1260ac8f",
+            "Value": {
+                "id": "be7f6269-aec7-4822-933e-95848419d02b",
+                "resourcePath": "sprites\\Cutecloud1_sprite\\Cutecloud1_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c4cf13d5-f70d-47ae-a585-c398d6d1de1a",
             "Value": {
                 "id": "dbf310a3-369b-4ce0-8acd-b5d1021d9ea8",
@@ -559,6 +575,14 @@
             }
         },
         {
+            "Key": "d00e8b58-9456-42a9-9b2b-5d0d2d7cf99e",
+            "Value": {
+                "id": "0524564c-e95c-4590-94bd-af88cb46ec38",
+                "resourcePath": "sprites\\CuteCloudRight_sprite\\CuteCloudRight_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d935bd57-72f8-43a9-af57-7a3f4df7e8c9",
             "Value": {
                 "id": "05faaa35-126c-4780-9c72-a340204dd4bd",
@@ -575,11 +599,27 @@
             }
         },
         {
+            "Key": "dbe0376c-25d8-4285-b401-ad343a7f1d19",
+            "Value": {
+                "id": "f29adccd-7752-44eb-bbd8-f1e73e697d56",
+                "resourcePath": "sprites\\CuteCloudLeft_sprite\\CuteCloudLeft_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dbeb03ec-34d0-45a6-ac65-dcc70fe7918b",
             "Value": {
                 "id": "261f489b-21e0-4825-917f-26b5e1b36fc7",
                 "resourcePath": "views\\dbeb03ec-34d0-45a6-ac65-dcc70fe7918b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dd7adb1f-c69e-4bf4-8744-c28eb56aaab7",
+            "Value": {
+                "id": "051a9773-1e39-4f00-8b59-d3f3ee25ba3a",
+                "resourcePath": "sprites\\CuteCloudRain_sprite\\CuteCloudRain_sprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
