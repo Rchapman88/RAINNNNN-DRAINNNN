@@ -7,12 +7,15 @@ if(speed > 15) speed = 10;
 if(speed < -15) speed = -10;
 //rain
 if(rain = 0){
-	image_blend = c_blue;
+	col = make_color_rgb(6, 133, 201);
+	image_blend = col;
 }
 if(rain = 1){
-	image_blend = c_red;
+	col = make_color_rgb(214, 72, 72);
+	image_blend = col;
 }
 if(rain = 2){
-	image_blend = c_green;
+	col = make_color_rgb(14, 206, 36);
+	image_blend = col;
 }
 	
