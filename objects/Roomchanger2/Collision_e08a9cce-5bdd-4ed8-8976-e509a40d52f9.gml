@@ -6,10 +6,6 @@ if(alarm[0] <= 0) {
 		alarm[0] = 2;
 	}
 	if(room == room1) {
-		room = room2;
-		alarm[0] = 2;
-	}
-	if(room == room2) {
 		room = room0;
 		alarm[0] = 2;
 	}

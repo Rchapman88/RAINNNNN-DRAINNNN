@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "1ce0b011-3339-4d60-b718-aab6c1db9e10",
+            "Value": {
+                "id": "2987c288-e140-45c0-a3a6-843b2cf5f0e1",
+                "resourcePath": "sprites\\redStage2\\redStage2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2642b9d7-a241-4f6e-9c0b-9cd89091bf07",
             "Value": {
                 "id": "9853a0bd-8530-4179-8ee2-55546f776cba",
@@ -124,14 +132,6 @@
                 "id": "e6f533d7-e4b1-473a-bd2d-9cf5e2d11e1c",
                 "resourcePath": "sprites\\redHit_sprite\\redHit_sprite.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "375d2b89-07ea-43cd-b2e3-2d5038c4782c",
-            "Value": {
-                "id": "bcccec1b-513b-4b44-85d1-b6f4a0b9fb8e",
-                "resourcePath": "rooms\\room2\\room2.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "a33303af-3935-4f80-a9af-86108202c48d",
+            "Value": {
+                "id": "68ddfac7-472c-4800-8fc7-c57af4331de9",
+                "resourcePath": "sprites\\redStage3\\redStage3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a72a4889-380f-478b-b631-2b9556f70804",
             "Value": {
                 "id": "06639197-a0dc-41fb-919c-31139cfe7347",
@@ -631,6 +639,14 @@
             }
         },
         {
+            "Key": "e1eefbea-3be6-4b14-b95d-823ce6bde0b1",
+            "Value": {
+                "id": "20b02bcf-5ecb-44f4-9638-b2f604e7c34a",
+                "resourcePath": "sprites\\BlueStage2\\BlueStage2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e431f4a6-f4ad-4fac-a6b6-6a3a96bb2799",
             "Value": {
                 "id": "68e99fc1-452a-4927-baa2-3fc967009ca5",
@@ -667,6 +683,14 @@
             "Value": {
                 "id": "ab73cd58-1f1f-46dc-b003-0467a679d2a4",
                 "resourcePath": "sprites\\TheRedPeople\\TheRedPeople.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f1dff7af-59ed-480a-b0e3-81529daf4f5a",
+            "Value": {
+                "id": "6233f28c-7a11-4f74-b8fa-e4973469373c",
+                "resourcePath": "sprites\\blueStage3\\blueStage3.yy",
                 "resourceType": "GMSprite"
             }
         },
