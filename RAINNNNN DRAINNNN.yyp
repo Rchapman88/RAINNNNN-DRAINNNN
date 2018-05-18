@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "43a6cf1c-c6ea-4863-a60c-d7fb2f1fd316",
+            "Value": {
+                "id": "aa33075e-e496-4596-a9f2-14fe7a06a071",
+                "resourcePath": "objects\\backgroundChanger\\backgroundChanger.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "450f3860-840e-4c52-9958-92cbaaf2d510",
             "Value": {
                 "id": "801146c1-a77e-46eb-861d-8e2174419b6a",
@@ -439,6 +447,14 @@
             }
         },
         {
+            "Key": "9a23559e-de91-4776-8740-185c824f06a1",
+            "Value": {
+                "id": "a622416b-9270-4d64-9191-ab42348f47e7",
+                "resourcePath": "sprites\\cityBurning\\cityBurning.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a1db7d0e-c16c-4629-a4bb-41fe3de23e40",
             "Value": {
                 "id": "2824d4d3-830d-4ac9-91d3-7cf623b8d8db",
@@ -683,14 +699,6 @@
             "Value": {
                 "id": "f5be3384-35ee-48d7-b391-8954145b0fd4",
                 "resourcePath": "sprites\\bluerain_sprite\\bluerain_sprite.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e6f10a14-8a5b-4fcc-a8e2-cc866b37d6b7",
-            "Value": {
-                "id": "81064a87-9cd9-49fd-8cc9-a6b199be5d69",
-                "resourcePath": "sprites\\cityBurning\\cityBurning.yy",
                 "resourceType": "GMSprite"
             }
         },
