@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "1c35eab0-94d1-4386-82be-fe25563d903e",
+            "Value": {
+                "id": "1fa65015-b76f-47e5-a226-433a66bc144e",
+                "resourcePath": "objects\\plantSpawner\\plantSpawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1ce0b011-3339-4d60-b718-aab6c1db9e10",
             "Value": {
                 "id": "2987c288-e140-45c0-a3a6-843b2cf5f0e1",
