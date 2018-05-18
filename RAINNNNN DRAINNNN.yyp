@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "5c82e0fa-7633-4a45-bac8-5465d47dea1b",
+            "Value": {
+                "id": "49778afd-fee8-4ae3-be12-1df5a3adfe49",
+                "resourcePath": "sprites\\blueOneTwo\\blueOneTwo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5cdefe68-7a6f-4bf9-853e-45a17929c347",
             "Value": {
                 "id": "fcddc942-e2f1-49c6-a325-ae94c73b317c",
@@ -487,6 +495,14 @@
             }
         },
         {
+            "Key": "ae4c5cfd-d53e-4856-8b1e-ca8803af56a1",
+            "Value": {
+                "id": "11ab3f26-5313-48ca-86cb-4af7c1c93a80",
+                "resourcePath": "sprites\\cityOvergrown\\cityOvergrown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b2bf18f0-ff94-494d-9cf9-cda85ddb030a",
             "Value": {
                 "id": "5465efec-5519-4aa7-824c-d022958b92f8",
@@ -642,7 +658,7 @@
             "Key": "e1eefbea-3be6-4b14-b95d-823ce6bde0b1",
             "Value": {
                 "id": "20b02bcf-5ecb-44f4-9638-b2f604e7c34a",
-                "resourcePath": "sprites\\BlueStage2\\BlueStage2.yy",
+                "resourcePath": "sprites\\blueStage2\\blueStage2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -663,11 +679,27 @@
             }
         },
         {
+            "Key": "e6f10a14-8a5b-4fcc-a8e2-cc866b37d6b7",
+            "Value": {
+                "id": "81064a87-9cd9-49fd-8cc9-a6b199be5d69",
+                "resourcePath": "sprites\\cityBurning\\cityBurning.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e907b7ae-f378-41cb-9c80-edbaadf9b9ab",
             "Value": {
                 "id": "a3558502-83a8-4a8e-a725-f6fcb1de09b9",
                 "resourcePath": "objects\\Fire\\Fire.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ead2354a-8cd8-4aac-a40b-998834fdb409",
+            "Value": {
+                "id": "cfb557dd-3849-4f75-9915-4885631bc3c9",
+                "resourcePath": "sprites\\citybiomegreen\\citybiomegreen.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

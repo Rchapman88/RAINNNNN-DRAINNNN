@@ -13,7 +13,8 @@
         "e1eefbea-3be6-4b14-b95d-823ce6bde0b1",
         "1ce0b011-3339-4d60-b718-aab6c1db9e10",
         "a33303af-3935-4f80-a9af-86108202c48d",
-        "f1dff7af-59ed-480a-b0e3-81529daf4f5a"
+        "f1dff7af-59ed-480a-b0e3-81529daf4f5a",
+        "5c82e0fa-7633-4a45-bac8-5465d47dea1b"
     ],
     "filterType": "GMSprite",
     "folderName": "Plants",

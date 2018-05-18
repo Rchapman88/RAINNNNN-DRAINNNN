@@ -2,7 +2,7 @@
     "id": "e1eefbea-3be6-4b14-b95d-823ce6bde0b1",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "BlueStage2",
+    "name": "blueStage2",
     "For3D": false,
     "HTile": false,
     "VTile": false,
