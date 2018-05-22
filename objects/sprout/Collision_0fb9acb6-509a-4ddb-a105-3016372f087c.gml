@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(onfire = false){
+if(onfire == false && start == true){
 
 	sprite_index = burned_sprite;
 	image_xscale = 1;

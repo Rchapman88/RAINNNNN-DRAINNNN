@@ -18,6 +18,7 @@ if(counterg >= 0 and counterg <= 5 and cangrow == true and counter <= 0){
 }
 else if( counterg > 5 and counterg < 15 and cangrow == true and counter <= 0){
 	if(plantgen == 0){
+		
 		sprite_index = 	redPlant_sprite;
 		cangrow = false;
 	}
@@ -40,11 +41,12 @@ else if( counterg >= 15 and cangrow == true and counter <= 0){
 		cangrow = false;
 	}
 	if(plantgen == 2){
+		alarm[0] = room_speed * 5;
 		sprite_index = 	orangeFlower;
 		cangrow = false;
+		start = false;
 	}
 }
-
 
 
 /*

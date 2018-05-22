@@ -1,3 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
-onfire = true;
+
+
+if alarm[1] <= 0 && onfire == false
+{
+  countfire ++;
+}
+
