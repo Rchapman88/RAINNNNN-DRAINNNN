@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 
-if alarm[1] <= 0 && onfire == false
+if alarm[1] <= 0 && onfire == false && start == true
 {
   countfire ++;
 }

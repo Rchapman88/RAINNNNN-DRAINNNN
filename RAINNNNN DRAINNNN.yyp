@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "42e09100-e227-4806-842d-773f834bf279",
+            "Value": {
+                "id": "2be55072-cb9f-4873-8598-cc8a279ff2f4",
+                "resourcePath": "sprites\\greenPool\\greenPool.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "43a6cf1c-c6ea-4863-a60c-d7fb2f1fd316",
             "Value": {
                 "id": "aa33075e-e496-4596-a9f2-14fe7a06a071",
