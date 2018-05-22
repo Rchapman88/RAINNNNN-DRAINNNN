@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "0746e539-4461-4c89-80db-817041fb4102",
+            "Value": {
+                "id": "9593eb44-de8b-4310-8d2d-934266024a5f",
+                "resourcePath": "sprites\\rose\\rose.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0c2d564c-c7b4-4700-b1a4-bd3210d2344b",
             "Value": {
                 "id": "34a6e99b-f6f3-49b6-a170-2e0d612b7b28",
@@ -87,11 +95,27 @@
             }
         },
         {
+            "Key": "1177eef4-a610-48ff-a77a-ae3405335c3d",
+            "Value": {
+                "id": "5ac9fc19-1252-4aa1-a840-bacaee488cb2",
+                "resourcePath": "sprites\\fireFlower\\fireFlower.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1630e191-141c-4a0b-a667-699c5ca66dc5",
             "Value": {
                 "id": "7de30f82-8d09-4147-a1de-f88a2f20ff19",
                 "resourcePath": "objects\\plant2\\plant2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1ae9dabc-b87a-4c0f-a6ac-d74082364035",
+            "Value": {
+                "id": "9e7d39be-fb98-4e26-843f-e67875105824",
+                "resourcePath": "sprites\\purpleLily\\purpleLily.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -106,7 +130,7 @@
             "Key": "1ce0b011-3339-4d60-b718-aab6c1db9e10",
             "Value": {
                 "id": "2987c288-e140-45c0-a3a6-843b2cf5f0e1",
-                "resourcePath": "sprites\\redStage2\\redStage2.yy",
+                "resourcePath": "sprites\\redStage1\\redStage1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -132,6 +156,14 @@
                 "id": "3797d1f0-bc7a-4889-8f64-03d5a145a175",
                 "resourcePath": "views\\2c918a84-9a71-4deb-87c3-536818ea8583.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2eca0b7b-0745-4c60-9926-88e5979e2b86",
+            "Value": {
+                "id": "30166b6b-d3a7-4a85-ba8c-4f76e4aeaf99",
+                "resourcePath": "sprites\\biggieSunFlower\\biggieSunFlower.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -287,6 +319,14 @@
             }
         },
         {
+            "Key": "706f1502-726b-4bfb-8acf-e54b2749953f",
+            "Value": {
+                "id": "dba600e3-5c8b-47e5-9af6-4de3b408a33c",
+                "resourcePath": "sprites\\miniFlowers\\miniFlowers.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "728a0e51-a902-422a-80bd-f6441df70bcb",
             "Value": {
                 "id": "970891a9-d414-4c81-bb97-d16af0cd79e9",
@@ -364,6 +404,14 @@
                 "id": "96c54cde-22f4-4ef2-ac83-a0809968c93d",
                 "resourcePath": "objects\\greenrain\\greenrain.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8512ff0d-ce4b-44c7-b972-05c239e37f96",
+            "Value": {
+                "id": "41028dc0-adb9-44b8-b963-fff939eaec35",
+                "resourcePath": "sprites\\cityMedium\\cityMedium.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -495,6 +543,14 @@
             }
         },
         {
+            "Key": "a7be383c-e62d-4e42-a8de-f94b64373704",
+            "Value": {
+                "id": "0a06b631-aa24-416a-a7a0-8c5bce516887",
+                "resourcePath": "sprites\\orangeFlower\\orangeFlower.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a7fde5e5-93a6-4282-a34a-c7e29a41e45b",
             "Value": {
                 "id": "9ad163d1-d0e3-42ca-b01f-a77ce085892e",
@@ -539,6 +595,14 @@
             "Value": {
                 "id": "11ab3f26-5313-48ca-86cb-4af7c1c93a80",
                 "resourcePath": "sprites\\cityOvergrown\\cityOvergrown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "af5b5d18-79f4-420e-b9ae-555f90d9303b",
+            "Value": {
+                "id": "e5c9e33c-7c03-426f-aa89-8daca7abbf1e",
+                "resourcePath": "sprites\\twoHeadLily\\twoHeadLily.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -591,6 +655,14 @@
             }
         },
         {
+            "Key": "be3cb929-77f6-4953-8475-dd1499cb84ed",
+            "Value": {
+                "id": "d9676262-dd46-466e-8407-4310903fa13a",
+                "resourcePath": "sprites\\cityPlant\\cityPlant.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c20588a3-0239-41c3-a6b4-6183e4e904d5",
             "Value": {
                 "id": "be65d8b1-8f16-44fc-a39b-b368e68cc96f",
@@ -603,6 +675,14 @@
             "Value": {
                 "id": "be7f6269-aec7-4822-933e-95848419d02b",
                 "resourcePath": "sprites\\Cutecloud1_sprite\\Cutecloud1_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c44b24d3-491c-4765-8aaf-8765b6b3cf1f",
+            "Value": {
+                "id": "d5cdad76-dd8a-4258-9b20-5a324b64e509",
+                "resourcePath": "sprites\\rainbowFlower\\rainbowFlower.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -763,6 +843,14 @@
             "Value": {
                 "id": "ab73cd58-1f1f-46dc-b003-0467a679d2a4",
                 "resourcePath": "sprites\\TheRedPeople\\TheRedPeople.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ef091233-a57a-49b9-a4e6-da0a5cd560f4",
+            "Value": {
+                "id": "270c8fee-2115-4831-a394-48a3116f93ef",
+                "resourcePath": "sprites\\cerberusRose\\cerberusRose.yy",
                 "resourceType": "GMSprite"
             }
         },

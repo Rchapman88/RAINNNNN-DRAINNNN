@@ -12,35 +12,35 @@ if(counterg >= 0 and counterg <= 5 and cangrow == true and counter >= 10){
 		cangrow = false;
 	}
 	if(plantgen == 2){
-		sprite_index = corn_sprite;	
+		sprite_index = purpleLily;	
 		cangrow = false;
 	}
 }
-else if( counterg > 5 and counterg < 11 and cangrow == true and counter >= 10){
+else if( counterg > 5 and counterg < 15 and cangrow == true and counter >= 10){
 	if(plantgen == 0){
 		sprite_index = blueStage2;	
 		cangrow = false;
 	}
 	if(plantgen == 1){
-		sprite_index = blueStage2;	
+		sprite_index = twoHeadLily;	
 		cangrow = false;
 	}
 	if(plantgen == 2){
-		sprite_index = blueStage2;	
+		sprite_index = cityPlant;	
 		cangrow = false;
 	}
 }
-else if( counterg >= 11 and cangrow == true and counter >= 10){
+else if( counterg >= 15 and cangrow == true and counter >= 10){
 	if(plantgen == 0){
 		sprite_index = blueStage3;	
 		cangrow = false;
 	}
 	if(plantgen == 1){
-		sprite_index = blueStage3;	
+		sprite_index = cityMedium;	
 		cangrow = false;
 	}
 	if(plantgen == 2){
-		sprite_index = blueStage3;	
+		sprite_index = biggieSunFlower;	
 		cangrow = false;
 	}
 }

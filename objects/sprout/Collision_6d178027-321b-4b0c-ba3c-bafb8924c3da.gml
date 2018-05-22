@@ -1,45 +1,46 @@
 /// @description Insert description here
 // You can write your code in this editor
 counter --;
-if(counterg > 5 and counterg <= 10 and cangrow == true and counter <= 0){
+plantgen = irandom_range(0,2);
+if(counterg >= 0 and counterg <= 5 and cangrow == true and counter <= 0){
 	if(plantgen == 0){
-		sprite_index = redPlant_sprite;	
+		sprite_index = redStage1;	
 		cangrow = false;
 	}
 	if(plantgen == 1){
-		sprite_index = redPlant_sprite;	
+		sprite_index = miniFlowers;	
 		cangrow = false;
 	}
 	if(plantgen == 2){
-		sprite_index = redPlant_sprite;	
+		sprite_index = rose;	
 		cangrow = false;
 	}
 }
-else if( counterg > 10 and counterg < 15 and cangrow == true and counter <= 0){
+else if( counterg > 5 and counterg < 15 and cangrow == true and counter <= 0){
 	if(plantgen == 0){
-		sprite_index = 	redStage2;
+		sprite_index = 	redPlant_sprite;
 		cangrow = false;
 	}
 	if(plantgen == 1){
-		sprite_index = 	redStage2;
+		sprite_index = 	rainbowFlower;
 		cangrow = false;
 	}
 	if(plantgen == 2){
-		sprite_index = 	redStage2;
+		sprite_index = 	fireFlower;
 		cangrow = false;
 	}
 }
-else if( counterg >= 15 and cangrowg == true and counter <= 0){
+else if( counterg >= 15 and cangrow == true and counter <= 0){
 	if(plantgen == 0){
 		sprite_index = 	redStage3;
 		cangrow = false;
 	}
 	if(plantgen == 1){
-		sprite_index = 	redStage3;
+		sprite_index = 	cerberusRose;
 		cangrow = false;
 	}
 	if(plantgen == 2){
-		sprite_index = 	redStage3;
+		sprite_index = 	orangeFlower;
 		cangrow = false;
 	}
 }
