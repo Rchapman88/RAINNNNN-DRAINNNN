@@ -5,16 +5,6 @@
     "name": "Roomchanger2",
     "eventList": [
         {
-            "id": "e08a9cce-5bdd-4ed8-8976-e509a40d52f9",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "4ce304fe-325f-4027-966b-5432faf1f086",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "fef59b9e-3923-49cb-a8bf-b0923edf5c47"
-        },
-        {
             "id": "364b112f-d35e-4626-860a-627aab39e79f",
             "modelName": "GMEvent",
             "mvc": "1.0",

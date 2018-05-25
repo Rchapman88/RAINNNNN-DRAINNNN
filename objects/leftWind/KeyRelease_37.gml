@@ -1,4 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-layer_background_visible(0, false);
-layer_background_visible(1,true);
+visible = false;
+
+	x = (object0.x) - 900
+image_xscale = 2;
