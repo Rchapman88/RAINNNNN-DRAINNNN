@@ -1,7 +1,7 @@
 /// @description GUI var menu setup
 
 ///menu bgm play
-audio_play_sound(s_menu, 1, true);
+audio_play_sound(Music2, 1, true);
 
 
 gui_width = display_get_gui_width();

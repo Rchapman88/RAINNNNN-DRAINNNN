@@ -13,3 +13,4 @@ if alarm[0] <= 0 {
 	}
 	alarm[0] = rain_colddown;
 }
+audio_play_sound(RainHit, 1, false);

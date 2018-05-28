@@ -13,3 +13,6 @@ alarm[0] = rain_colddown;
 can_use = true;
 cooldown = room_speed * 10;
 alarm[1] = cooldown;
+
+// Audio - Background Music
+audio_play_sound(s_menu, 3, true);

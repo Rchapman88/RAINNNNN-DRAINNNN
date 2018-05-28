@@ -7,6 +7,7 @@ if(onfire == false && start == true){
 	image_yscale = 1;
 	
 	instance_create_layer(x,y-50,"instances",Fire);
+	audio_play_sound(FirePlantExplosion, 1, false);
 	onfire = true;
 	cangrow = false;
 }
