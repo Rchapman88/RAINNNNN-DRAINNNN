@@ -37,6 +37,7 @@ else if( counterg > 5 and counterg < 15 and cangrow == true and counter <= 0){
 	}
 	if(plantgen == 1){
 		plantfinal = 1;
+		alarm[2] = room_speed * 5;
 		instance_create_layer(x,y,"Instances", sparkle);
 		sprite_index = 	rainbowFlower;
 		audio_play_sound(PlantFullyGrows, 1, false);

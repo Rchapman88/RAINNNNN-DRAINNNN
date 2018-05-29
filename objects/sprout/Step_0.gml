@@ -19,6 +19,7 @@ if (countfire >= 50 && ded != true)
 	countfire = 0; 
 	ded = true; 
 }
+
 //blue plant effects
 if (plantfinal = 0 && blue = true){
 	
@@ -27,7 +28,7 @@ if (plantfinal = 1 && blue = true){
 	
 }
 if (plantfinal = 2 && blue = true){
-	if(alarm[2] <= 0) {
+	if(alarm[2] <= 0 && sprite_index = biggieSunFlower) {
 		image_xscale+= .1;
 		image_yscale+= .2;
 		alarm[2] = room_speed * 5;
@@ -38,7 +39,10 @@ if (plantfinal = 0 && blue = false){
 	
 }
 if (plantfinal = 1 && blue = false){
-	
+		if(alarm[2] <= 0 && sprite_index = rainbowFlower) {
+		image_blend = make_color_rgb(irandom(255),irandom(255),irandom(255));
+		alarm[2] = room_speed * 5;
+	}
 }
 if (plantfinal = 2 && blue = false){
 	
