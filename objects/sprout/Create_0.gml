@@ -8,6 +8,7 @@ onfire = false;
 explosion = false;
 fireSpread = false;
 start = true;
-
-countfire = 0; 
+plantfinal = 0;
+countfire = 0;
+blue = false;
 alarm[1] = room_speed*3; 

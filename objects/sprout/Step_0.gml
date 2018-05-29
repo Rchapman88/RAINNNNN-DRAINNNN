@@ -19,3 +19,23 @@ if (countfire >= 50 && ded != true)
 	countfire = 0; 
 	ded = true; 
 }
+//blue plant effects
+if (plantfinal = 0 && blue = true){
+	
+}
+if (plantfinal = 1 && blue = true){
+	
+}
+if (plantfinal = 2 && blue = true){
+	
+}
+//redplant effects
+if (plantfinal = 0 && blue = false){
+	
+}
+if (plantfinal = 1 && blue = false){
+	
+}
+if (plantfinal = 2 && blue = false){
+	
+}

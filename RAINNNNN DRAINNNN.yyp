@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "112976bb-8be3-4e0a-abd0-5cbead7fb4d0",
+            "Value": {
+                "id": "4f5027ca-1f42-4569-b2a7-069f7f4f3743",
+                "resourcePath": "sprites\\sprite58\\sprite58.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1177eef4-a610-48ff-a77a-ae3405335c3d",
             "Value": {
                 "id": "5ac9fc19-1252-4aa1-a840-bacaee488cb2",
@@ -103,11 +111,11 @@
             }
         },
         {
-            "Key": "1630e191-141c-4a0b-a667-699c5ca66dc5",
+            "Key": "19c9d1a4-f702-4f86-862e-e9fd0ac509c6",
             "Value": {
-                "id": "7de30f82-8d09-4147-a1de-f88a2f20ff19",
-                "resourcePath": "objects\\plant2\\plant2.yy",
-                "resourceType": "GMObject"
+                "id": "53e5de74-68c8-48ac-8ced-3797d99eb801",
+                "resourcePath": "views\\19c9d1a4-f702-4f86-862e-e9fd0ac509c6.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -131,6 +139,14 @@
             "Value": {
                 "id": "2987c288-e140-45c0-a3a6-843b2cf5f0e1",
                 "resourcePath": "sprites\\redStage1\\redStage1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1edc9783-dd8a-4ca8-975e-fae542dd42d3",
+            "Value": {
+                "id": "2331d103-8e1a-4ce5-9d23-b44c1273a0d5",
+                "resourcePath": "sprites\\sprite60\\sprite60.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -231,14 +247,6 @@
             }
         },
         {
-            "Key": "43a6cf1c-c6ea-4863-a60c-d7fb2f1fd316",
-            "Value": {
-                "id": "aa33075e-e496-4596-a9f2-14fe7a06a071",
-                "resourcePath": "objects\\backgroundChanger\\backgroundChanger.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "450f3860-840e-4c52-9958-92cbaaf2d510",
             "Value": {
                 "id": "801146c1-a77e-46eb-861d-8e2174419b6a",
@@ -303,6 +311,14 @@
             }
         },
         {
+            "Key": "536c12fa-6b3a-4990-a56b-e286f153b602",
+            "Value": {
+                "id": "26b74b1b-caa5-4909-8950-5926a0a34d7e",
+                "resourcePath": "views\\536c12fa-6b3a-4990-a56b-e286f153b602.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "540c03e6-1d21-44a0-8442-00cef234aa56",
             "Value": {
                 "id": "61322f4b-25dd-4579-af13-044937dbc86d",
@@ -351,11 +367,27 @@
             }
         },
         {
+            "Key": "5ed78096-ff61-4a90-87b0-f63f898e18c8",
+            "Value": {
+                "id": "9f2e7cd7-3bd6-4996-a77e-07a04fd25f42",
+                "resourcePath": "objects\\sparkle\\sparkle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "609bd1f7-6351-4ac2-b18b-20acf57a6070",
             "Value": {
                 "id": "5b6787f5-5077-4218-9543-496ce68e4322",
                 "resourcePath": "objects\\redrain\\redrain.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "661e2bfb-cff8-4397-8fe6-b0026a049482",
+            "Value": {
+                "id": "9f7a6f7b-ffa1-4454-9aa6-353ec49aa0b0",
+                "resourcePath": "views\\661e2bfb-cff8-4397-8fe6-b0026a049482.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -783,6 +815,14 @@
             }
         },
         {
+            "Key": "b9640ba5-2099-4d7c-9bf6-cfe2632c261a",
+            "Value": {
+                "id": "1549bb6c-c6f8-42c1-ae7a-6921927aeaae",
+                "resourcePath": "sprites\\sprite59\\sprite59.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "be3cb929-77f6-4953-8475-dd1499cb84ed",
             "Value": {
                 "id": "d9676262-dd46-466e-8407-4310903fa13a",
@@ -823,6 +863,14 @@
             }
         },
         {
+            "Key": "c9e2bebc-877c-493f-97f9-0db8cf15523f",
+            "Value": {
+                "id": "f4a94ebf-81dc-4ac1-985f-c17c1a46a59c",
+                "resourcePath": "sprites\\sprite61\\sprite61.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "12fdb6cf-04fc-4a1a-a2c8-593e8c82baaf",
@@ -852,6 +900,14 @@
                 "id": "05faaa35-126c-4780-9c72-a340204dd4bd",
                 "resourcePath": "sprites\\TheDefaultPeople\\TheDefaultPeople.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d9605f1f-5122-42e7-80b5-20bf38525915",
+            "Value": {
+                "id": "de5f3f7c-46c3-419b-afdc-6bd5ab27b4d5",
+                "resourcePath": "views\\d9605f1f-5122-42e7-80b5-20bf38525915.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -931,6 +987,14 @@
             "Value": {
                 "id": "20b02bcf-5ecb-44f4-9638-b2f604e7c34a",
                 "resourcePath": "sprites\\blueStage2\\blueStage2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e3468c99-6ea9-4c45-b12c-7c12a98652cb",
+            "Value": {
+                "id": "1de05c68-77d8-415b-bb05-b951fdcf29d8",
+                "resourcePath": "sprites\\SingleBiome\\SingleBiome.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1044,14 +1108,6 @@
                 "id": "443aa23b-ca92-46d5-9440-9d6f3c01e2c5",
                 "resourcePath": "views\\fcc70b2f-9545-4fe5-a8b8-88a1a0b46e12.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "fef59b9e-3923-49cb-a8bf-b0923edf5c47",
-            "Value": {
-                "id": "5bd11921-e23d-4204-adc8-ff3083d25245",
-                "resourcePath": "objects\\Roomchanger2\\Roomchanger2.yy",
-                "resourceType": "GMObject"
             }
         },
         {
