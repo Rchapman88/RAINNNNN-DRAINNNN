@@ -27,7 +27,11 @@ if (plantfinal = 1 && blue = true){
 	
 }
 if (plantfinal = 2 && blue = true){
-	
+	if(alarm[2] <= 0) {
+		image_xscale+= .1;
+		image_yscale+= .2;
+		alarm[2] = room_speed * 5;
+	}
 }
 //redplant effects
 if (plantfinal = 0 && blue = false){

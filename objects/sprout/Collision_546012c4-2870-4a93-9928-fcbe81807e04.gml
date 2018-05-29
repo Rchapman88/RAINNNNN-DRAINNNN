@@ -68,6 +68,7 @@ else if( counterg >= 15 and cangrow == true and counter >= 10){
 	}
 	if(plantgen == 2){
 		plantfinal = 2;
+		alarm[2] = room_speed * 5;
 		instance_create_layer(x,y,"Instances", sparkle);
 		sprite_index = biggieSunFlower;
 		audio_play_sound(PlantFullyGrows, 1, false);
