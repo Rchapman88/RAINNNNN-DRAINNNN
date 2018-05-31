@@ -9,5 +9,6 @@ if(cangrow == true){
 		sprite_index = burned_sprite;
 		cangrow = false;
 		ded = true;
+		audio_play_sound(BadFeedbackNoise, 2, false);
 	}
 }
