@@ -6,4 +6,5 @@ if(countp == 0){
 	DefaultPoolPeople.visible = false;
 	RedPoolPeople.visible = true;
 	BluePeoplePoolParty.visible = false;
+	greenCount = 0;
 }
