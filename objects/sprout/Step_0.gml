@@ -27,6 +27,7 @@ if (plantfinal = 0 && blue = true){
 if (plantfinal = 1 && blue = true){
 	if(spout = false && sprite_index = cityMedium) {
 		instance_create_layer(x,y-200,"Instances",waterspout);
+		audio_play_sound(WaterPlantExplosion, 3, false);
 		spout = true;
 	}
 }
