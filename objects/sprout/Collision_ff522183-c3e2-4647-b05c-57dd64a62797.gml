@@ -5,6 +5,7 @@ if (cangrow = false && onfire == false){
 	ded = false;
 	cangrow = true;
 	onfire = false;
+	spout = false;
 	image_xscale = 1;
 	image_yscale = 1;
 	counter = 5;

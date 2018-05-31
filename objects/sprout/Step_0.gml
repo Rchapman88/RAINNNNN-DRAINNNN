@@ -25,7 +25,10 @@ if (plantfinal = 0 && blue = true){
 	
 }
 if (plantfinal = 1 && blue = true){
-	
+	if(spout = false && sprite_index = cityMedium) {
+		instance_create_layer(x,y-200,"Instances",waterspout);
+		spout = true;
+	}
 }
 if (plantfinal = 2 && blue = true){
 	if(alarm[2] <= 0 && sprite_index = biggieSunFlower) {
