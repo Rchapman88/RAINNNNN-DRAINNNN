@@ -65,6 +65,7 @@ else if( counterg >= 15 and cangrow == true and counter >= 10){
 		sprite_index = cityMedium;
 		audio_play_sound(PlantFullyGrows, 1, false);
 		cangrow = false;
+		start = false;
 	}
 	if(plantgen == 2){
 		plantfinal = 2;
