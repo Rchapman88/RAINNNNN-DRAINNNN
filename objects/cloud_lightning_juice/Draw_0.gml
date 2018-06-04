@@ -1,3 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-visible = false;
+ x = object0.x;
+ draw_self();

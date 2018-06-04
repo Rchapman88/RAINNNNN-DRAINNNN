@@ -26,3 +26,9 @@ instance_create_layer(x,y,"Instances",cloud_lightning_juice);
 stretchyness = true;
 scaling = room_speed / 30;
 alarm[5] = scaling; 
+
+//gui stuff
+xstuff = window_get_width() - 10;
+ystuff = 150;
+leftside = 1;
+rightside = 1;
