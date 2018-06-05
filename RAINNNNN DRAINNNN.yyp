@@ -591,6 +591,14 @@
             }
         },
         {
+            "Key": "d940f2fc-5c1d-41c1-96a2-79064e538351",
+            "Value": {
+                "id": "5a2e5f80-7d47-44c0-8758-83b8453954b6",
+                "resourcePath": "sprites\\cityOvergrowth_sprite\\cityOvergrowth_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "da2156d8-04da-463b-a4a0-fa9406dce7fc",
             "Value": {
                 "id": "ab85d06e-ff43-456d-b8fc-4aecc76731a1",
@@ -659,6 +667,14 @@
             "Value": {
                 "id": "f5be3384-35ee-48d7-b391-8954145b0fd4",
                 "resourcePath": "sprites\\bluerain_sprite\\bluerain_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e64f925a-c703-4eef-bc11-9368522b32a6",
+            "Value": {
+                "id": "e9a9d970-f669-4740-8cd2-ffb95781cad7",
+                "resourcePath": "sprites\\cityFire_sprite\\cityFire_sprite.yy",
                 "resourceType": "GMSprite"
             }
         },
