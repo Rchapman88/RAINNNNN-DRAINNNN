@@ -31,7 +31,7 @@ if (menu_x > gui_width + 400) && (menu_committed != -1)
 {
     switch (menu_committed)
 	{
-	    case 1: default: room_goto(1) audio_stop_all(); break;
+	    case 1: default: SlideTransition(TRANS_MODE.NEXT) audio_stop_all(); break;
 		case 0: game_end(); break;
 	}
 }
