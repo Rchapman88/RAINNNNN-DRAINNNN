@@ -719,6 +719,14 @@
             }
         },
         {
+            "Key": "a20fac0e-af52-4151-b322-d54cf102dbfd",
+            "Value": {
+                "id": "23fc9a17-d0ce-434e-8db6-9e574b5b6cff",
+                "resourcePath": "sprites\\bunnySprite\\bunnySprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a24b309a-6b6d-4991-8038-1a8f8d7362e2",
             "Value": {
                 "id": "a04b26e4-b89c-47bb-af29-abc702cb1a51",
@@ -828,6 +836,14 @@
                 "id": "be872465-612c-4a9d-89f7-e9dd20496cb4",
                 "resourcePath": "views\\b451299f-26af-407f-8b31-7ac8d02b3dcd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b4649312-8e93-453f-9a67-45f3092b9b2f",
+            "Value": {
+                "id": "663ab5c2-e577-41ce-a21d-ce2c584968d7",
+                "resourcePath": "objects\\bunny\\bunny.yy",
+                "resourceType": "GMObject"
             }
         },
         {

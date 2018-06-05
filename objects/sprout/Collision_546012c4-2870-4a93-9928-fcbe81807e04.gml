@@ -8,6 +8,15 @@ if(counterg >= 0 and counterg <= 5 and cangrow == true and counter >= 10){
 		plantfinal = 0;
 		instance_create_layer(x,y,"Instances", sparkle);
 		sprite_index = corn_sprite;
+	
+//this is the bunny spawner code, change the x to make the bunny come from further or closer away
+//also, please put this in more places than just here. bunnys coming for corn is lame.. maybe carrot?
+		with(instance_create_layer(x + 700, y + 75, "Instances", bunny))
+		{
+			creatorX = other.x;
+			creatorY = other.y;
+		}
+		
 		audio_play_sound(PlantFullyGrows, 1, false);
 		cangrow = false;
 	}

@@ -10,6 +10,7 @@ if(counterg >= 0 and counterg <= 5 and cangrow == true and counter <= 0){
 		sprite_index = redStage1;
 		audio_play_sound(PlantFullyGrows, 1, false);
 		cangrow = false;
+		fireSpread = true; //important to remeber you changed this
 	}
 	if(plantgen == 1){
 		plantfinal = 1;

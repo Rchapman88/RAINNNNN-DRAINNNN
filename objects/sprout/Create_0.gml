@@ -13,3 +13,4 @@ countfire = 0;
 blue = false;
 spout = false;
 alarm[1] = room_speed*3; 
+
