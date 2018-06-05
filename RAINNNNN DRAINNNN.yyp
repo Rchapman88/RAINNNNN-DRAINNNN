@@ -999,6 +999,14 @@
             }
         },
         {
+            "Key": "ccbee722-1e64-425a-8b87-3f99df6d4787",
+            "Value": {
+                "id": "f88575b5-2b74-404b-9adc-16911b0cca77",
+                "resourcePath": "objects\\quit\\quit.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d00e8b58-9456-42a9-9b2b-5d0d2d7cf99e",
             "Value": {
                 "id": "0524564c-e95c-4590-94bd-af88cb46ec38",
