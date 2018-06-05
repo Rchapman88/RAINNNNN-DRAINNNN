@@ -2,6 +2,7 @@
 // You can write your code in this editor
 ///onfire = false;
 if(fireSpread == true && explosion == false){
+	sprite_index = FireStart;
 	instance_create_layer(x,y,"Instances", Explosion);
 		cangrow = false;
 		explosion = true;

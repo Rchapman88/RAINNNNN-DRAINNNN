@@ -71,7 +71,7 @@ else if( counterg >= 15 and cangrow == true and counter <= 0){
 		plantfinal = 2;
 		instance_create_layer(x,y,"Instances", sparkle);
 		alarm[0] = room_speed * 5;
-		sprite_index = 	orangeFlower;
+		sprite_index = 	FireBase;
 		audio_play_sound(PlantFullyGrows, 1, false);
 		cangrow = false;
 		start = false;
