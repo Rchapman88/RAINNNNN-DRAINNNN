@@ -10,7 +10,7 @@ if(counterg >= 0 and counterg <= 5 and cangrow == true and counter >= 10){
 		sprite_index = corn_sprite;
 	
 //this is the bunny spawner code, change the x to make the bunny come from further or closer away
-//also, please put this in more places than just here. bunnys coming for corn is lame.. maybe carrot?
+//also, please put this in more places than just here. maybe make carrot sprite?
 		with(instance_create_layer(x + 700, y + 75, "Instances", bunny))
 		{
 			creatorX = other.x;
