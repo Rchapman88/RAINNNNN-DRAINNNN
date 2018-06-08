@@ -3,5 +3,5 @@
 sprite_index = CuteCloudLeft_sprite;
 speed -= 5;
 direction = 0;
-image_xscale+= .025;
-image_yscale-= .025;
+
+rightside = 0;
