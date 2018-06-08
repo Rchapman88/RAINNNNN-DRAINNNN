@@ -20,7 +20,35 @@ if (countfire >= 50 && ded != true)
 	countfire = 0; 
 	ded = true; 
 }
-
+if(decaycounter < 7) decaycounter = 7;
+if (cangrow == false && alarm[4] <= 0 && ded != true){
+	decaycounter--;
+	alarm[4] = 20*room_speed;
+}
+if (decaycounter == 5 && alarm[5] <= 0){
+	instance_create_layer(x,y-20,"Instances_1",object35);
+	alarm[5] = 5*room_speed;
+}
+if (decaycounter == 4 && alarm[5] <= 0){
+	instance_create_layer(x,y-20,"Instances_1",object35);
+	alarm[5] = 4*room_speed;
+}
+if (decaycounter == 3 && alarm[5] <= 0){
+	instance_create_layer(x,y-20,"Instances_1",object35);
+	alarm[5] = 3*room_speed;
+}
+if (decaycounter == 2 && alarm[5] <= 0){
+	instance_create_layer(x,y-20,"Instances_1",object35);
+	alarm[5] = 2*room_speed;
+}
+if (decaycounter == 1 && alarm[5] <= 0){
+	instance_create_layer(x,y-20,"Instances_1",object35);
+	alarm[5] = 1*room_speed;
+}
+if (decaycounter == 0){
+	ded = true;
+	sprite_index = burned_sprite;
+}
 //blue plant effects
 if (plantfinal = 0 && blue = true){
 	

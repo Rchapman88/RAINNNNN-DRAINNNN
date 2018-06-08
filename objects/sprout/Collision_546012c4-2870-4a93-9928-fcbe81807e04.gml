@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 counter++;
+decaycounter++;
 plantgen = irandom_range(0,2);
 if(counterg >= 0 and counterg <= 5 and cangrow == true and counter >= 10){
 	blue = true;
@@ -8,8 +9,18 @@ if(counterg >= 0 and counterg <= 5 and cangrow == true and counter >= 10){
 		plantfinal = 0;
 		instance_create_layer(x,y,"Instances", sparkle);
 		sprite_index = corn_sprite;
+	
+//this is the bunny spawner code, change the x to make the bunny come from further or closer away
+//also, please put this in more places than just here. bunnys coming for corn is lame.. maybe carrot?
+		with(instance_create_layer(x + 1000, y, "Instances", bunny))
+		{
+			creatorX = other.x;
+			creatorY = other.y;
+		}
+		
 		audio_play_sound(PlantFullyGrows, 1, false);
 		cangrow = false;
+		alarm[4] = 20*room_speed;
 	}
 	if(plantgen == 1){
 		plantfinal = 1;
@@ -17,13 +28,20 @@ if(counterg >= 0 and counterg <= 5 and cangrow == true and counter >= 10){
 		sprite_index = blueOneTwo;
 		audio_play_sound(PlantFullyGrows, 1, false);
 		cangrow = false;
+		alarm[4] = 20*room_speed;
 	}
 	if(plantgen == 2){
 		plantfinal = 2;
 		instance_create_layer(x,y,"Instances", sparkle);
 		sprite_index = purpleLily;
+		with(instance_create_layer(x + 1000, y, "Instances", bunny))
+		{
+			creatorX = other.x;
+			creatorY = other.y;
+		}
 		audio_play_sound(PlantFullyGrows, 1, false);
 		cangrow = false;
+		alarm[4] = 20*room_speed;;
 	}
 }
 else if( counterg > 5 and counterg < 15 and cangrow == true and counter >= 10){
@@ -34,6 +52,7 @@ else if( counterg > 5 and counterg < 15 and cangrow == true and counter >= 10){
 		sprite_index = blueStage2;
 		audio_play_sound(PlantFullyGrows, 1, false);
 		cangrow = false;
+		alarm[4] = 20*room_speed;;
 	}
 	if(plantgen == 1){
 		plantfinal = 1;
@@ -41,6 +60,7 @@ else if( counterg > 5 and counterg < 15 and cangrow == true and counter >= 10){
 		sprite_index = twoHeadLily;
 		audio_play_sound(PlantFullyGrows, 1, false);
 		cangrow = false;
+		alarm[4] = 20*room_speed;;
 	}
 	if(plantgen == 2){
 		plantfinal = 2;
@@ -48,6 +68,7 @@ else if( counterg > 5 and counterg < 15 and cangrow == true and counter >= 10){
 		sprite_index = cityPlant;
 		audio_play_sound(PlantFullyGrows, 1, false);
 		cangrow = false;
+		alarm[4] = 20*room_speed;;
 	}
 }
 else if( counterg >= 15 and cangrow == true and counter >= 10){
@@ -58,6 +79,7 @@ else if( counterg >= 15 and cangrow == true and counter >= 10){
 		sprite_index = blueStage3;
 		audio_play_sound(PlantFullyGrows, 1, false);
 		cangrow = false;
+		alarm[4] = 20*room_speed;;
 	}
 	if(plantgen == 1){
 		plantfinal = 1;
@@ -65,6 +87,7 @@ else if( counterg >= 15 and cangrow == true and counter >= 10){
 		sprite_index = cityMedium;
 		audio_play_sound(PlantFullyGrows, 1, false);
 		cangrow = false;
+		alarm[4] = 20*room_speed;;
 	}
 	if(plantgen == 2){
 		plantfinal = 2;
@@ -73,6 +96,7 @@ else if( counterg >= 15 and cangrow == true and counter >= 10){
 		sprite_index = biggieSunFlower;
 		audio_play_sound(PlantFullyGrows, 1, false);
 		cangrow = false;
+		alarm[4] = 20*room_speed;
 	}
 }
 

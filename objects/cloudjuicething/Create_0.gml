@@ -8,7 +8,7 @@ shrinktime = room_speed / 4;
 alarm[1] = shrinktime;
 
 movement = object0.speed;
-depth = 10;
+depth = 400;
 
 if(object0.speed > 0 || object0.speed < 0)
 {

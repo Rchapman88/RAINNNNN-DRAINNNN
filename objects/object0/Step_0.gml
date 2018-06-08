@@ -63,3 +63,7 @@ if stretchyness == false
 	}}
 alarm[5] = scaling;
 }
+var _cam_x = camera_get_view_x(view_camera[0]) ;
+layer_x("backgrounds_5", _cam_x * 0.25); // Change the background layer name to whatever you use in the room editor
+layer_x("backgrounds_4", _cam_x * 0.75); // Change the background layer name to whatever you use in the room editor
+layer_x("backgrounds_3", _cam_x * 0.5);   // Change the 0.25 and 0.5 values to change the speed of the effect
