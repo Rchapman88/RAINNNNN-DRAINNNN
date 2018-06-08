@@ -5,7 +5,7 @@
     "name": "bunny",
     "eventList": [
         {
-            "id": "41a184bb-f6b8-4418-9046-f207f671da45",
+            "id": "3d729fd5-453d-42cc-b3ac-227e2cb31b67",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "b4649312-8e93-453f-9a67-45f3092b9b2f"
         },
         {
-            "id": "ff2bad5e-b54c-4e98-9125-286b9df9f553",
+            "id": "85d55a1e-e77d-4ca3-974e-7268dc803e8e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -25,7 +25,7 @@
             "m_owner": "b4649312-8e93-453f-9a67-45f3092b9b2f"
         },
         {
-            "id": "63a4b618-5bad-4dde-98b0-17affb1f585f",
+            "id": "8feb8be7-1c78-414a-b5bf-1ba4dcfabd6f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -53,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "a20fac0e-af52-4151-b322-d54cf102dbfd",
+    "spriteId": "ea3d8f2b-a952-4bd2-ae7c-af1b93bfef1f",
     "visible": true
 }
