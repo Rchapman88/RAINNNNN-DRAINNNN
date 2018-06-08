@@ -96,6 +96,11 @@ else if( counterg >= 15 and cangrow == true and counter <= 0){
 		alarm[4] = 20*room_speed;
 	}
 }
+//Rain noise sound. Remove if too annoying.
+if(rainNoise == true && alarm[6] <= 0){
+		audio_play_sound(RainHit,4,false);
+		rainNoise = false;
+}
 
 
 /*

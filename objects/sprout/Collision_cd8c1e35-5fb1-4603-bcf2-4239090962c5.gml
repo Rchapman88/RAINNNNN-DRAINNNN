@@ -6,4 +6,9 @@ if(cangrow == true){
 		image_xscale+= .1;
 		image_yscale+= .2;
 	}
+	//Rain noise remove if annoying.
+	if(rainNoise == true && alarm[6] <= 0){
+		audio_play_sound(RainHit,4,false);
+		rainNoise = false;
+	}
 }

@@ -100,7 +100,12 @@ else if( counterg >= 15 and cangrow == true and counter >= 10){
 	}
 }
 
-
 if(onfire == true){
 	onfire = false;
 }
+
+//Rain noise, remove if annoying.
+if(rainNoise == true && alarm[6] <= 0){
+		audio_play_sound(RainHit,4,false);
+		rainNoise = false;
+	}

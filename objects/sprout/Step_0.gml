@@ -1,6 +1,14 @@
 /// @description Insert description here
 // You can write your code in this editor
 ///onfire = false;
+
+//Less annoying rain sound? Maybe if it is still annoying get rid of this and
+// the code located at each of the rain collisions.
+if(rainNoise == false){
+	alarm[6] = room_speed * 3;
+	rainNoise = true;
+}
+
 if(fireSpread == true && explosion == false){
 	sprite_index = FireStart;
 	instance_create_layer(x,y,"Instances", Explosion);

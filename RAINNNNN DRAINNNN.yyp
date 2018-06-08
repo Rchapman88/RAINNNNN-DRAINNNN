@@ -639,6 +639,14 @@
             }
         },
         {
+            "Key": "7fdd409e-e904-4714-82f7-030eb2516778",
+            "Value": {
+                "id": "8edc75b8-1394-45c6-bc10-979feffda8ef",
+                "resourcePath": "sounds\\NewRain\\NewRain.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "8105f26d-b339-4140-9118-95ebc2ac1add",
             "Value": {
                 "id": "75146c74-9d2a-42cf-9fda-b7b1a7a1f455",
