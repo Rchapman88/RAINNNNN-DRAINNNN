@@ -2,9 +2,7 @@
 // You can write your code in this editor
 counter = 5;
 counterg = 0;
-decay = 6;
 cangrow = true;
-decaycolor = 100;
 ded = false;
 onfire = false;
 explosion = false;
